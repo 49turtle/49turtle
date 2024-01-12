@@ -4,7 +4,7 @@
 
 ## 🏫 Education
 
-- __숭실대학교 (Soongsil University, South Korea)__
+- __전공 (Major)__
 
     - 수학과 (Mathematics)
     - 산업정보시스템공학과 (Industrial & Information Systems Engineering)
@@ -17,10 +17,12 @@
 
 ## 📁 Experience
 
-- __IBK 기업은행(Industrial Bank of Korea)__
+- __IBK 기업은행 (Industrial Bank of Korea)__
   
   - IT 정보부 Intern(2023.07 ~ 2023.08)
 
 ## 😃 Hobbies
 
-- 🍿 🎶 👟
+- 🍿
+- 🎶
+- 👟
