@@ -20,9 +20,3 @@
 - __IBK 기업은행 (Industrial Bank of Korea)__
   
   - IT 정보부 Intern(2023.07 ~ 2023.08)
-
-## 😃 Hobbies
-
-- 🍿
-- 🎶
-- 👟
