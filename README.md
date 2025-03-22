@@ -19,8 +19,7 @@
     
 - __SSAFY (Samsung SW Academy For Youth)__
 
-    - 자바(Java) 과정
-    - 2024.01 ~ 2024.12
+    - 자바(Java) 과정(2024.01 ~ 2024.12)
 
 
 - __IBK 기업은행 (Industrial Bank of Korea)__
